@@ -1,0 +1,5 @@
+flask
+pymupdf
+tqdm
+spacy
+transformers
